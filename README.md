@@ -24,24 +24,27 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-            alt="android" height="30" />
-    </a>
     <a href="https://dart.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="30" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30" />
     </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="30" />
     </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="30" />
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30" />
+    </a>
+    <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
+            alt="android" height="30" />
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" height="30" />
     </a>
     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="30" />
+    </a>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="30" />
     </a>
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
@@ -51,6 +54,6 @@
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="30" />
     </a>
     <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="sqlite" height="30" />
+        <img src="https://cdn.worldvectorlogo.com/logos/sonarqube.svg" alt="sonarqube" height="30" />
     </a>
 </p>
