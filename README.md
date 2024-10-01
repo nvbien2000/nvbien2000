@@ -20,6 +20,8 @@
             src="https://github.com/nvbien2000/nvbien2000/raw/main/viblo.png" alt="@nvbien" height="30" /></a>
     <a href="https://stackoverflow.com/users/19992458" target="blank"><img align="center"
             src="https://github.com/nvbien2000/nvbien2000/raw/main/stackoverflow.png" alt="19992458" height="30" /></a>
+    <a href="https://www.hackerrank.com/nvbien2000" target="_blank"><img align="center" 
+            src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white" alt="zzzz" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
