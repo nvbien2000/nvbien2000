@@ -3,11 +3,11 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
+- [[Viblo] Nhật ký 2024 và những bài học cho bản thân mình](https://viblo.asia/p/nhat-ky-2024-va-nhung-bai-hoc-cho-ban-than-minh-y37LdzEM4ov#_122024-thanh-tuu---tro-thanh-backend-fresher-5)
 - [[Viblo] Tại sao việc bắt lập trình viên mặc quần áo công sở là một ý tưởng tồi?](https://viblo.asia/p/quora-tai-sao-viec-bat-lap-trinh-vien-mac-quan-ao-cong-so-la-mot-y-tuong-toi-3RlL5RYBVbB)
 - [[Medium] Flutter architecture design series — 1. Distinguishing between MVC, MVP, and MVVM. Clean architecture theory](https://medium.com/@nvbien/flutter-architecture-design-series-1-b65d44238d7b)
 - [[Medium] Flutter architecture design series — Bài 2. Clean architecture — kịch bản ấy đẹp, tiếc là…](https://medium.com/@nvbien/flutter-architecture-design-series-bài-2-clean-architecture-kịch-bản-ấy-đẹp-tiếc-là-ddce8a23d81b)
 - [[Viblo] Nhìn lại 2023: Đắng cay ngọt bùi và những task nhớ tới già của một Mobile Developer](https://viblo.asia/p/nhin-lai-2023-dang-cay-ngot-bui-va-nhung-task-nho-toi-gia-cua-mot-mobile-developer-38X4EgoXLN2)
-- [[Viblo] Git Cherry Pick siêu tốc - Khi branch cần merge có commit không mong muốn](https://viblo.asia/p/git-cherry-pick-sieu-toc-khi-branch-can-merge-co-commit-khong-mong-muon-38X4EP62VN2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
