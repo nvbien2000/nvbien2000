@@ -3,7 +3,7 @@
 
 ### Latest posts
 <!-- BLOG-POST-LIST:START -->
-- [[Viblo] Nhật ký 2024 và những bài học cho bản thân mình](https://viblo.asia/p/nhat-ky-2024-va-nhung-bai-hoc-cho-ban-than-minh-y37LdzEM4ov#_122024-thanh-tuu---tro-thanh-backend-fresher-5)
+- [[Viblo] Nhật ký 2024 và những bài học cho bản thân mình](https://viblo.asia/p/nhat-ky-2024-va-nhung-bai-hoc-cho-ban-than-minh-y37LdzEM4ov)
 - [[Viblo] Tại sao việc bắt lập trình viên mặc quần áo công sở là một ý tưởng tồi?](https://viblo.asia/p/quora-tai-sao-viec-bat-lap-trinh-vien-mac-quan-ao-cong-so-la-mot-y-tuong-toi-3RlL5RYBVbB)
 - [[Medium] Flutter architecture design series — 1. Distinguishing between MVC, MVP, and MVVM. Clean architecture theory](https://medium.com/@nvbien/flutter-architecture-design-series-1-b65d44238d7b)
 - [[Medium] Flutter architecture design series — Bài 2. Clean architecture — kịch bản ấy đẹp, tiếc là…](https://medium.com/@nvbien/flutter-architecture-design-series-bài-2-clean-architecture-kịch-bản-ấy-đẹp-tiếc-là-ddce8a23d81b)
